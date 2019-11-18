@@ -48,3 +48,65 @@ li {
     position: absolute;
     justify-content: center;
 }
+
+.card.text {
+    font-size: 15px;
+
+}
+
+.contact.header {
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contact.me {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.gmail {
+    padding: 20px;
+    font-size: 30px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 300px;
+   
+}
+
+.gmail:hover {
+    opacity: 0.7;
+}
+
+.linkedin {
+    padding: 20px;
+    font-size: 30px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 310px;
+    
+}
+
+.linkedin:hover {
+    opacity: 0.7;
+}
+
+.github {
+    padding: 20px;
+    font-size: 30px;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 300px;
+    
+}
+
+.github:hover {
+    opacity: 0.7;
+}
