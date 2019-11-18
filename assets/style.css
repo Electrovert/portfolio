@@ -1,5 +1,5 @@
 body {
-    background-image: url("./images/backgroundforce4studios.jpg");
+    
 }
 
 h1 {
@@ -12,4 +12,9 @@ h1 {
 .lead {
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.card {
+    justify-content: center;
+    display: flex;
 }
